@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/main.cpp
+iostream
+-
+string.h
+-
+./modules/relp_logic.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/relp_logic.h
+./modules/InputBuffer.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.cpp
+InputBuffer.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
+iostream
+-
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
+iostream
+-
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/relp_logic.h
+iostream
+-
+string
+-
+InputBuffer.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
+

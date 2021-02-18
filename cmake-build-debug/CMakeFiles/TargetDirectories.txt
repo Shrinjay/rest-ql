@@ -1,0 +1,3 @@
+C:/Users/shrin/Desktop/CodePractice/C-DB/cmake-build-debug/CMakeFiles/C_DB.dir
+C:/Users/shrin/Desktop/CodePractice/C-DB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shrin/Desktop/CodePractice/C-DB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
