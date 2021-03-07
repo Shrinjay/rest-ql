@@ -3,7 +3,11 @@
 
 CMakeFiles/C_DB.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/InputBuffer.h
+CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/Row.h
+CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/Statement.h
+CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/Table.h
 CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/relp_logic.h
+CMakeFiles/C_DB.dir/main.cpp.obj: ../modules/string_util.h
 
 CMakeFiles/C_DB.dir/modules/InputBuffer.cpp.obj: ../modules/InputBuffer.cpp
 CMakeFiles/C_DB.dir/modules/InputBuffer.cpp.obj: ../modules/InputBuffer.h

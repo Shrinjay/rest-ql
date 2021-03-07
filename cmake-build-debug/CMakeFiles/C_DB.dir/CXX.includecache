@@ -9,22 +9,26 @@
 C:/Users/shrin/Desktop/CodePractice/C-DB/main.cpp
 iostream
 -
-string.h
--
 ./modules/relp_logic.h
 C:/Users/shrin/Desktop/CodePractice/C-DB/modules/relp_logic.h
 ./modules/InputBuffer.h
 C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
-
-C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.cpp
-InputBuffer.h
-C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
-iostream
--
+./modules/Table.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Table.h
 
 C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
 iostream
 -
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Row.h
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Statement.h
+string
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/string
+Row.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Row.h
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Table.h
 
 C:/Users/shrin/Desktop/CodePractice/C-DB/modules/relp_logic.h
 iostream
@@ -33,4 +37,16 @@ string
 -
 InputBuffer.h
 C:/Users/shrin/Desktop/CodePractice/C-DB/modules/InputBuffer.h
+string.h
+-
+string_util.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/string_util.h
+Statement.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Statement.h
+Table.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/Table.h
+
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/string_util.h
+string.h
+C:/Users/shrin/Desktop/CodePractice/C-DB/modules/string.h
 
